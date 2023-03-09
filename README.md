@@ -26,7 +26,7 @@ the environment.
   Zero Quest Web 3.0 provides to global users the ownership for the Voluntary 
 Carbon Reduction data verified by IoT, Blockchain and AI
 
-## Common manage wallet contact address
+## Common manage wallet contract address
 
 | Name  | Address |
 | ------------- | ------------- |
